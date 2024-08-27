@@ -7,13 +7,13 @@
 # 🌐 Socials:
 <br>
 <p align="center">
-  <a href="www.linkedin.com/in/khushi-agarwal-b3534624b/">
+  <a href="www.linkedin.com/in/khushi-agarwal-b3534624b">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  <a href="https://www.instagram.com/agrwlkhushi//">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- <a href="https://github.com/AgrwlKhuhu">
+ <a href="https://github.com/AgrwlKhushu">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 <!--  <a href="https://twitter.com/agrwl_maddy1908">
