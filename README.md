@@ -16,7 +16,7 @@
  <a href="https://github.com/AgrwlKhushu">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-<!--  <a href="https://twitter.com/agrwl_maddy1908">
+<!--  <a href="">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a> -->
 </p>
