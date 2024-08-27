@@ -7,7 +7,7 @@
 # 🌐 Socials:
 <br>
 <p align="center">
-  <a href="www.linkedin.com/in/khushi-agarwal-b3534624b">
+  <a href="https://www.linkedin.com/in/khushi-agarwal-b3534624b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  <a href="https://www.instagram.com/agrwlkhushi//">
